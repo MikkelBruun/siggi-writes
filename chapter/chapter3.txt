@@ -1,0 +1,326 @@
+2:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","781","static/chunks/app/chapter/%5Bchaptername%5D/page-67c86de7a988cc9e.js"],""]
+4:I[9275,[],""]
+6:I[1343,[],""]
+3:T3ad1,
+        <h1>
+  <span>Chapter 3: The Oath Swearing</span>
+</h1>
+
+<p>
+  <span>Fenric did not sleep well on his first night back in Silveck. Maunhilt’s words kept playing in his mind, plaguing him with their promise of ruin yet lack of specificity. If she was right, if it was sorcery, then it had to be </span>
+  <em>
+    <span>bad</span>
+  </em>
+  <span>. Surely the king would not summon Lord Anshelm at such an hour simply for the routine capture of some poor sod performing sorcery in the wrong place at the wrong time? It had to be more than that. Was someone threatening the throne? That wasn’t the plan, not now. The conditions were all wrong for that sort of move. Had someone broken rank? Or was someone acting independent of the societies? </span>
+</p>
+
+<p>
+  <span>Practising sorcery was a grave crime in Haifaric. It did not, it was believed, only violate law, it violated honour and dignity. It was the refuge of the coward, the snake, the depraved traitor of right itself. Some were born with a natural inclination towards its usage, it was understood, just as some were born weaker than others. Nature could be overcome – was that not civilization, the grace of the gods allowing man to rise above what nature dictated? A ship went where nature had decreed man could not, a fence made slaves of animals much stronger than any human. Nature could be overcome, they always said. </span>
+</p>
+
+<p>
+  <span>They weren’t entirely wrong, of course. To some degree, it could be. But why should it, where it pertained to sorcery? One didn't </span>
+  <em>
+    <span>have</span>
+  </em>
+  <span> to learn sorcery, but why was it so shameful to do it? Those who praised the sword, this one-purpose tool of warfare, decried the evils of sorcery. Fenric remembered very well the last time those cries had washed over the streets of Silveck like the dreaded storm floods that plagued the area. Except... the storm floods only happened once or twice in a generation. The last panic about sorcery had been just 3 years ago, back when King Rodward had been murdered by a sorcerer, and now they seemed to be at the precipice once more. </span>
+</p>
+
+<p>
+  <span>Fenric tossed and turned half the night, trying to convince himself that he was worrying for nothing. Maunhilt could have been wrong, after all. There’d been no indication it really was about sorcery, had there? But Maunhilt seemed to know Lord Anshelm very well, so perhaps she had perceived something in him that Fenric did not possess the means to perceive… </span>
+</p>
+
+<p>
+  <span>As luck would have it, Lord Anshelm called on Fenric just after breakfast the next morning. </span>
+</p>
+
+<p>
+  <span>Most of Lord Anshelm's hall was just that, an open hall, where servants and their children – even the two young housecarls who’d greeted them the night before – slept and ate. Around a dozen adults and a dozen more children, from Fenric's count. There was another section to the building, though, where a hallway opened to several smaller chambers. At the end of this hallway lay Lord Anshelm's own chamber and this was where Fenric was led after his breakfast. </span>
+</p>
+
+<p>
+  <span>When Fenric entered, Lord Anshelm was not alone in his chamber. He was in the company of an older man whose big bractate bearing the imprint of an eye surrounded by a runic inscription marked him as a gothi; a servant of the gods and an enemy of sorcery. Fenric did his best to remain impassive as he bowed to each of the men.</span>
+</p>
+
+<p>
+  <span>"Lord, Gothi," he said, feigning respect.</span>
+</p>
+
+<p>
+  <span>“This is my new scribe,” Anshelm said to the man before turning to Fenric. “Fenric Scribe, meet Gothi Gunwulf of the Silveck Tempel.”</span>
+</p>
+
+<p>
+  <span>“Peace and health, Gothi,” Anshelm said with a nod in his direction. </span>
+</p>
+
+<p>
+  <span>The gothi arose from his chair and slowly walked over to Fenric, looking him up and down. Fenric did his best not to flinch as the old man touched first his chest, then his cheek. After a while, the gothi let his hand drop and gave Fenric a satisfied nod. </span>
+</p>
+
+<p>
+  <span>“Blessings upon you,” he croaked out. “I sense it was Fate who sent you here.”</span>
+</p>
+
+<p>
+  <span>Fenric shot a look at Lord Anshelm. He was positively beaming at the gothi’s judgement. </span>
+</p>
+
+<p>
+  <span>“Excellent!” he said. “Then – can we proceed with the oath? I really do need to get to work.”</span>
+</p>
+
+<p>
+  <span>“Of course, Lord Anshelm,” the gothi said.</span>
+</p>
+
+<p>
+  <span>Fenric frowned. An oath? He’d never taken an oath in the course of finding employment before, but then, he’d never worked directly for a noble before, either. He’d assumed such measures were only used in the case of housecarls or other hirdmen, but maybe it was customary even for lesser servants.</span>
+</p>
+
+<p>
+  <span>Or maybe… maybe it was in anticipation of exactly the type of agenda Fenric had. If Lord Anshelm planned to use him for all his correspondence, Fenric would be privy to a lot of information. Information it made sense to only entrust an oathsworn with. </span>
+</p>
+
+<p>
+  <span>Fenric felt sick. </span>
+</p>
+
+<p>
+  <span>“I can see in your face that you understand the gravity of such an oath,” the gothi said approvingly. </span>
+</p>
+
+<p>
+  <span>Fenric nodded, unable to speak. Technically, he may already be considered an oathbreaker, but… well, the gods may excuse the extenuating circumstances from his youth. This? He was walking into this with open eyes. </span>
+</p>
+
+<p>
+  <span>“Right, come over here,” the gothi said, gesturing to the space in front of Lord Anshelm. “Have you done this before?”</span>
+</p>
+
+<p>
+  <span>“Only an oath of brotherhood,” Fenric got out. </span>
+</p>
+
+<p>
+  <span>The gothi nodded. </span>
+</p>
+
+<p>
+  <span>“This is not dissimilar, except it requires you to go to your knees before your lord.”</span>
+</p>
+
+<p>
+  <span>Fenric slowly obeyed. Once on his knees, he didn’t know where to turn his eyes. Looking up at Lord Anshelm hardly seemed respectful, but neither did staring directly into his crotch. Fenric settled for the floorboards. Funny. Even the floor spoke of Lord Anshelm’s riches – Fenric had never seen anything but a ground floor till the first time his parents brought him to the temple in Domstead.</span>
+</p>
+
+<p>
+  <span>“Your right hand on top of his hand – yes, like that. Then the left behind your back. Alright.”</span>
+</p>
+
+<p>
+  <span>Once Fenric was positioned as Gothi Gunwulf had instructed, the gothi began chanting, calling upon the Lord of Fortune and The Wise Crone to take notice of their union. Last time Fenric had done something like this, none had dared call on such great gods for such a small matter. As the gothi kept chanting, Fenric privately wondered whether it wasn’t a vanity to expect the gods to care about the oath between a lord and a servant. It was a rather boring matter, wasn’t it? At least for weddings, the union had far reaching implications. This? This was just a formalised version of what took place in their world every day, regardless: one man subjugating another, turning honour and duty into arrows headed for his heart and mind.</span>
+</p>
+
+<p>
+  <span>When the gothi stopped chanting, he stepped closer to Fenric and Lord Anshelm, having produced a thin, multicoloured rope with weaved in glass beads from his tunic. Last time Fenric had done this, they’d used a piece of rope that had broken off of the village elder’s cart. </span>
+</p>
+
+<p>
+  <span>“Look up at Lord Anshelm and repeat after me, Fenric,” Gothi Gunwulf said. “</span>
+  <em>
+    <span>I, Fenric Scribe, hereby swear upon my honour…</span>
+  </em>
+  <span>”</span>
+</p>
+
+<p>
+  <span>“I, Fenric Scribe, hereby swear upon my honour…” Fenric repeated while the gothi began wrapping the thin rope around his and Lord Anshelm’s wrists. </span>
+</p>
+
+<p>
+  <span>“</span>
+  <em>
+    <span>...that I shall from this day forward and until the day I am released from my oath or until the day I die…</span>
+  </em>
+  <span>”</span>
+</p>
+
+<p>
+  <span>“...that I shall from this day forward and until the day I am released from my oath or until the day I die…”</span>
+</p>
+
+<p>
+  <span>Lord Anshelm was meeting his eyes evenly, an unreadable expression on his face. He must have done this so often that it was to him a banal affair. Nevermind that Fenric was signing his life away – and if not his life, his death. </span>
+</p>
+
+<p>
+  <span>“</span>
+  <em>
+    <span>...be loyal to my lord, Anshelm King-Brother of House Drotzet.</span>
+  </em>
+  <span>”</span>
+</p>
+
+<p>
+  <span>“...be loyal to my lord, Anshelm King-Brother of House Drotzet.”</span>
+</p>
+
+<p>
+  <span>Here the gothi paused, having finished wrapping the rope around their wrists. </span>
+</p>
+
+<p>
+  <span>“For the next part, you should be bowing your head,” the gothi said and Fenric looked back down at the floor, too busy feeling nervous to feel indignant. “Repeat: </span>
+  <em>
+    <span>His affairs shall be my affairs, his secrets shall be my secrets and his goals shall be my goals. With the Gods as my witness and honour as my guide, I, Fenric Scribe, take upon this duty. This I swear.”</span>
+  </em>
+</p>
+
+<p>
+  <span>Fenric repeated once again, feeling oddly out of himself. Perhaps they </span>
+  <em>
+    <span>had </span>
+  </em>
+  <span>attracted the attention of a god or two, after all. </span>
+</p>
+
+<p>
+  <span>Once Fenric stopped talking, Lord Anshelm began without needing to be prompted:</span>
+</p>
+
+<p>
+  <span>“I, Lord Anshelm King-Brother of House Drotzet, hereby accept your oath. I, Anshelm, son of Ansbert, swear on my honour to be a good and just lord, to protect you, my servant, Fenric Scribe, from harm or illness, to treat you and your family as kin and to show you the grace and dignity befitting of the oath you have given me and of my honour as a Lord of Haifaric. With the Gods as my witness and honour as my guide, I, Anshelm Drotzet, take upon this duty. This I swear.”</span>
+</p>
+
+<p>
+  <span>Once he finished speaking, Lord Anshelm bowed down to kiss Fenric’s brow.</span>
+</p>
+
+<p>
+  <span>“Arise with me, Fenric, my oathsworn,” he said after the kiss and shifted their hands wrapped in the rope to grab Fenric’s and help him up from the floor.</span>
+</p>
+
+<p>
+  <span>Fenric didn’t know if he was still supposed to show deference by looking down, but he couldn’t stop himself from meeting Lord Anshelm’s eyes once they were face to face. They were around the same height and Lord Anshelm had dark blue eyes. </span>
+</p>
+
+<p>
+  <span>If Fenric was doing it wrong, the gothi didn’t comment. Instead, he began chanting again as he removed the thin rope from their wrists. Lord Anshelm sent Fenric a small smile while they waited, that seemed to say: </span>
+  <em>
+    <span>yes, I know, bear with it just a little longer. </span>
+  </em>
+  <span>Fenric wondered how old Lord Anshelm was. He looked very young when he smiled. Fenric wondered if he shaved to achieve such an effect or if he truly could not grow even a moustache.</span>
+</p>
+
+<p>
+  <span>“In the name of the Gods, I declare this oath sworn! May the one who breaks it forever be scorned as a nithing and an oathbreaker!”</span>
+</p>
+
+<p>
+  <span>Fenric hoped Lord Anshelm hadn’t noticed him tensing up at the word </span>
+  <em>
+    <span>nithing</span>
+  </em>
+  <span>. </span>
+</p>
+
+<p><br />
+<br />
+</p>
+
+<p>
+  <span>Gothi Gunwulf left after the oath swearing and Lord Anshelm moved on with his day, but Fenric could not escape it so easily. While Lord Anshelm showed him his desk and the scribe tools he would be provided with, Fenric wrestled with his mind.</span>
+</p>
+
+<p>
+  <span>What he'd just done… what he was going to become…</span>
+</p>
+
+<p>
+  <span>Fenric got out his knife and started preparing a piece of parchment for writing. </span>
+</p>
+
+<p>
+  <span>It didn't matter</span>
+</p>
+
+<p>
+  <span>None of it mattered. </span>
+</p>
+
+<p>
+  <span>Fenric used an awl to mark out the margins and space between lines. </span>
+</p>
+
+<p>
+  <span>What was honour next to justice? What was duty to a lord next to duty to a people? If Fenric had to use cunning and betrayal to protect his fellow sorcerers, that was what he'd do. </span>
+</p>
+
+<p>
+  <span>"Alright, are you ready, Scribe?" </span>
+</p>
+
+<p>
+  <span>He'd have to pay attention if he wanted to do that, though. It was likely Anshelm would have him write of something important, now that he'd gone to all the trouble of getting Fenric's oath and Fenric wouldn't be able to process that information if his mind was too busy with other endeavours. His wounded pride would have to wait.</span>
+</p>
+
+<p>
+  <span>Finally, Fenric spread some pounce over the parchment, then turned to Lord Anshelm and nodded.</span>
+</p>
+
+<p>
+  <span>"Good, then write thusly – in runes –” Lord Anshelm said and started dictating. He spoke slowly and clearly, with extended breaks between sentences and a few clarifying comments in between. Knowing the Lord’s aesthetic sensibilities, Fenric wrote more slowly than he normally would when composing a letter. When Fenric moved aside to allow Lord Anshelm to read the letter, it was composed of these words: </span>
+</p>
+
+<p>
+  <em>
+    <span>Lord Anshelm Drotzet, King-Brother, to the honourable Earl Waldemar of Marchburg. May your lands be fertile and your house prosperous. </span>
+  </em>
+</p>
+
+<p>
+  <em>
+    <span>This shall be a short message, as it is a matter of some urgency. I write to you on behalf of my friend. He’s had a most disturbing experience, as he recently found rot within his very home. He fears it will poison him or his people if not dealt with swiftly. On his behalf, I humbly ask that you allow your woman to travel, as I know she is wise in such matters. </span>
+  </em>
+</p>
+
+<p>
+  <em>
+    <span>I pray that you are well and leave you with a favoured quote: The one who says little saves much.</span>
+  </em>
+</p>
+
+<p>
+  <em>
+    <span>Farewell</span>
+  </em>
+</p>
+
+<p>
+  <span>Rot within his very home… that had to be sorcery. And a wise woman from Marchburg? That had to be Earl Waldemar’s court gytha, Jordis. Fenric did not know much about her beyond her name, but he knew she was never good news for sorcerers. </span>
+</p>
+
+<p>
+  <span>“Good,” Lord Anshelm said with a nod. “Dry it and prepare it for sending. I shall be back to seal it later.”</span>
+</p>
+
+<p>
+  <span>Lord Anshelm moved away from the desk and towards a clothes rack by the door. </span>
+</p>
+
+<p>
+  <span>“For now, I must go to the castle,” he said as he put on his cloak. “In the meantime, you ought to present yourself to my sister – she may wish to make use of your services as well, after all. She’s in the next room.”</span>
+</p>
+
+<p>
+  <span>And with that, Lord Anshelm left. </span>
+</p>
+
+<p><br />
+<br />
+</p>
+        5:["chaptername","chapter3","d"]
+0:["bxgzqw-6aNynTPwsZRfEm",[[["",{"children":["chapter",{"children":[["chaptername","chapter3","d"],{"children":["__PAGE__?{\"chaptername\":\"chapter3\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["chapter",{"children":[["chaptername","chapter3","d"],{"children":["__PAGE__",{},[["$L1",["$","main",null,{"className":"chapter horisontal-center","children":[["$","div",null,{"className":"chapter-navigator","children":[["$","$L2",null,{"href":"chapter2","children":"Prev"}],["$","$L2",null,{"href":"/chapter/","children":"Home"}],["$","$L2",null,{"href":"chapter4","children":"Next"}]]}],["$","div",null,{"className":"textBody","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"chapter-navigator","children":[["$","$L2",null,{"href":"chapter2","children":"Prev"}],["$","$L2",null,{"href":"/chapter/","children":"Home"}],["$","$L2",null,{"href":"chapter4","children":"Next"}]]}]]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","chapter","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","chapter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"color-scheme","content":"dark"}]}],["$","body",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c197e74d6f118b7c.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The New Fate of the Sorcerers"}],["$","meta","3",{"name":"description","content":"Generated by Next.js"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null

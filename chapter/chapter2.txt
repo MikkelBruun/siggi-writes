@@ -1,0 +1,259 @@
+2:I[231,["231","static/chunks/231-bea070b1ecddfbbc.js","781","static/chunks/app/chapter/%5Bchaptername%5D/page-67c86de7a988cc9e.js"],""]
+4:I[9275,[],""]
+6:I[1343,[],""]
+3:T2ac1,
+        <h1>
+  <span>Chapter 2: The Road to Silveck</span>
+</h1>
+
+<p>
+  <span>The roads of Northern Otzvic were muddy this time of year. Incessant rain and melting snow from the mountain tops caused rivers to overflow. It was an important part of spring, Fenric’d always been told. Something about the viability of crops. He’d never really understood it. All he knew was that complaining about the rain and the mud had always seen him reprimanded as a child. One shouldn’t complain of blessings from The Storm Lady, or she may just choose to withhold rain altogether. That, or live up to her title and wreck every village in proximity of the one who slighted her. It was best to be quietly thankful for the mud. </span>
+</p>
+
+<p>
+  <span>No-one had ever given Lord Anshelm and his retainers the same lecture, it would seem.</span>
+</p>
+
+<p>
+  <span>"Damned!" One of his housecarls, a man named Ramunt, yelled when his whole boot sank into the soil. "I despise this season."</span>
+</p>
+
+<p>
+  <span>"Everyone does," Lord Anshelm responded mildly. "Damn it all the same."</span>
+</p>
+
+<p>
+  <span>"At least the rain looks about to stop," said Lord Anshelm's other housecarl, a woman named Maunhilt, her face turned towards the sky.</span>
+</p>
+
+<p>
+  <span>Ramunt scoffed.</span>
+</p>
+
+<p>
+  <span>"Yeah, for about 10 minutes before it starts back up again."</span>
+</p>
+
+<p>
+  <span>“You see, then?” Lord Anshelm said. “It was the right call, not going on horseback.”</span>
+</p>
+
+<p>
+  <span>Fenric looked from the lord to his oathsworn. An old argument, it seemed. Interesting – Lord Anshelm allowed those in his service to argue with him. That spoke volumes about the man, didn’t it? Fenric wondered whether Lord Anshelm and Maunhilt quarrelled just the same. Women housecarls were… not unheard of, but certainly not commonplace, either. Not as far as Fenric understood, at any rate. He was no expert on the matters of the nobility. He had no idea who Ramunt and Maunhilt were outside their role as housecarls, either. They must be nobles too, he assumed, but from what families and with what ranks? Fenric didn’t know. Such people weren’t in the habit of introducing themselves properly to people such as Fenric. Lord Anshelm had used their names and their dress marked them as housecarls, but beyond that… </span>
+</p>
+
+<p>
+  <span>The fourth member of the retinue was easier to get to know. He was Lord Anshelm’s manservant. In the old days, such a position would have gone to a slave, but the nobility rarely made use of slavery these days. The practice had render Haifaric unpopular with neighbouring countries, and so it persisted mostly far from view, in logging camps or mines. As Fenric was sure it did in those countries as well, regardless of their posturing. </span>
+</p>
+
+<p>
+  <span>Osger, that was the name of the servant. He carried a big rucksack and walked a respectful distance from his master. He was dressed well for a servant, but that wasn’t surprising – he was the personal manservant of one of the most powerful men in the country, of course he had to look the part.</span>
+</p>
+
+<p>
+  <span>“Are you from Otzvic, then?” Osger asked. </span>
+</p>
+
+<p>
+  <span>“Originally, yes. Although it’s been many years since I spent any real time here.”</span>
+</p>
+
+<p>
+  <span>Osger nodded.</span>
+</p>
+
+<p>
+  <span>“My Lord travels often, and his most permanent residence is in Silveck, as to better serve the King. He was fostered there too, of course, so I suppose for him it is as much home as Otzvic is. Me, though? I may not spend much time here anymore, but Otzvic is home."</span>
+</p>
+
+<p>
+  <span>"I feel the same way," Fenric lied.</span>
+</p>
+
+<p>
+  <span>In actuality, Otzvic had not been Fenric’s home since he was practically chased out of his village over a decade a go, but it did not hurt to let Osger think they had something in common. </span>
+</p>
+
+<p>
+  <span>“Were you travelling from Marchburg?”</span>
+</p>
+
+<p>
+  <span>Fenric nodded. </span>
+</p>
+
+<p>
+  <span>"I was let go and decided Silveck may have better career opportunities for a man of my talents."</span>
+</p>
+
+<p>
+  <span>Another lie – Fenric </span>
+  <em>
+    <span>had</span>
+  </em>
+  <span> been working in Marchburg, but not in a permanent position. In fact, he'd only been in Marchburg for about two weeks when he left.</span>
+</p>
+
+<p>
+  <span>Osger smiled.</span>
+</p>
+
+<p>
+  <span>"It seems you were right," he said with a nod towards Lord Anshelm.</span>
+</p>
+
+<p>
+  <span>Yes, indeed. Fenric had chosen the right road to travel. Where this road would lead, though… only Fate may know.</span>
+</p><h1><br />
+<br />
+</h1>
+
+<p>
+  <span>Silveck was the capital of the Kingdom of Haifaric, sitting on Cletz Isle, the ancestral lands of the current royal family, House Cletz. The island was centrally located, serving as a bridge between the Northern Duchies of Wesland, Foshem and Wyrmcliff and the Southern Duchies of Marchburg and Otzvic. It made sense, Fenric supposed, that House Cletz would not have been satisfied with serving a king from another house, when their own territory was so vital for trade, both within Heifaric and with foreign merchants.</span>
+</p>
+
+<p>
+  <span>Power struggles between nobles were tedious affairs, but Cletz Isle </span>
+  <em>
+    <span>did</span>
+  </em>
+  <span> make better sense as the central territory than Otzvic had. If nothing else, Rokell the Great's bloody revolt had secured a more reasonable administration of Haifaric. Although then again, Fenric didn't know how the territories had compared 200 years ago. Maybe Otzvic </span>
+  <em>
+    <span>had</span>
+  </em>
+  <span> made better sense, back then.</span>
+</p>
+
+<p>
+  <span>It was afternoon when they reached the coast. Lord Anshelm had a boat waiting for them – even when not travelling by carriage, being a Hirdman of the Realm came with its perks. Last time Fenric had made the trip, he'd had to wait a few hours for a boat. </span>
+</p>
+
+<p>
+  <span>They reached the shores of Cletz Isle early in the evening and from there, they made their way to the capital. Fenric hadn't been to Silveck for about 3 years, but last he knew, the gates closed the moment the sun started to set. </span>
+</p>
+
+<p>
+  <span>True enough, as they approached, Fenric took notice of a couple of small campfires with about a dozen people gathered around each of them. Most were likely people who had shown up too late to be let in, but it was also likely that some had been rejected entry for one reason or another and were hanging around in the hopes that a different guard on a different day might give them a different answer. Some of them might even be right, too.</span>
+</p>
+
+<p>
+  <span>Another perk of being with Lord Anshelm was that he certainly would not have to wait outside the gates for morning. When they reached the gates, Lord Anshelm merely declared his name, showed the guard his signet ring and they were let in through a side door without any hassle. Incredible. Fenric had long considered dealing with gatekeepers an occupational hazard of travel, yet not if one was a noble of some standing, it would seem.</span>
+</p>
+
+<p>
+  <span>"Have you been to the city before, Scribe?" Lord Anshelm asked as they walked through the darkening streets.</span>
+</p>
+
+<p>
+  <span>"Yes, Lord. I worked here, back when I transcribed my Lord's version of Praises and Meditations."</span>
+</p>
+
+<p>
+  <span>"Oh, of course, how silly of me," Lord Anshelm said. "Of course you must have, for me to have purchased the volume here. Why did you leave your position? To pursue becoming a master scribe?" </span>
+</p>
+
+<p>
+  <span>For a few moments, Fenric considered simply agreeing to Lord Anshelm's assumption. It would be a credible reason to have left a good position, after all. As was custom in many professions, the Scribe Guild required at least three years of travel before a journeyman could submit a masterwork. Still, it would beg the question of why Fenric was still not a master, when it had been over 7 years since he left. He could claim perfectionism, but getting caught up in a spin of lies such as that seemed like more trouble than it was worth.</span>
+</p>
+
+<p>
+  <span>"No," Fenric said. "The circumstances that made me leave were rather painful, Lord. I shall talk of it if my Lord insists, but I would prefer not to."</span>
+</p>
+
+<p>
+  <span>Lord Anshelm nodded.</span>
+</p>
+
+<p>
+  <span>"Of course, of course, I didn't mean to pry."</span>
+</p>
+
+<p>
+  <span>They walked in silence for a while as the world grew darker around them. When they arrived near a great house, its exterior illuminated by torches, Lord Anshelm threw his hand out in its direction.</span>
+</p>
+
+<p>
+  <span>“Welcome to my hall, Fenric Scribe!” </span>
+</p>
+
+<p>
+  <span>Before Fenric could answer, two young men dressed in housecarl armour came running out the front door towards Lord Anshelm.</span>
+</p>
+
+<p>
+  <span>“Lord!” One of them yelled as he came to a stop right in front of them, quickly followed by the other, who seemed too out of breath to speak. </span>
+</p>
+
+<p>
+  <span>“What is it, Sigurt?”</span>
+</p>
+
+<p>
+  <span>“His Majesty has requested your presence, Lord.”</span>
+</p>
+
+<p>
+  <span>A flicker of the torchlight revealed the lord’s frown.</span>
+</p>
+
+<p>
+  <span>“At this hour?” </span>
+</p>
+
+<p>
+  <span>“At once upon your return, we were told, Lord,” the one who’d been out of breath supplied.</span>
+</p>
+
+<p>
+  <span>Lord Anshelm let out a deep sigh and turned to one of his travel companions.</span>
+</p>
+
+<p>
+  <span>“Well, you better come with me, Ramunt,” he said, then turned to the other. “Maunhilt, you should get some rest.”</span>
+</p>
+
+<p>
+  <span>It was hard to tell when the darkness was only occasionally interrupted by torchlight, but the pause before Maunhilt spoke seemed to be comprised of a long look between her and her lord.</span>
+</p>
+
+<p>
+  <span>“If my Lord believes it is best.”</span>
+</p>
+
+<p>
+  <span>“I shall be fine,” Lord Anshelm said, then turned to one of the young housecarls who had greeted them, holding out a shoulder bag towards him.</span>
+</p>
+
+<p>
+  <span>“Fredhelm, if you would help Osger and inform whoever’s awake to prepare a bed for Fenric here?.”</span>
+</p>
+
+<p>
+  <span>The boy’s eyes flickered to Fenric, as if only now noticing his presence.</span>
+</p>
+
+<p>
+  <span>“Of course, Lord.”</span>
+</p>
+
+<p>
+  <span>Then, finally, Lord Anshelm turned to Fenric.</span>
+</p>
+
+<p>
+  <span>“It seems I must neglect my host duties, Scribe. Stay with Fredhelm for now, alright?”</span>
+</p>
+
+<p>
+  <span>Fenric nodded, then watched as Lord Anshelm left, taking with him both Ramunt and Sigurt.</span>
+</p>
+
+<p>
+  <span>“Sorcery must be afoot,” Maunhilt said quietly and a chill went through Fenric.</span>
+</p><h1><br />
+<br />
+</h1>
+        5:["chaptername","chapter2","d"]
+0:["bxgzqw-6aNynTPwsZRfEm",[[["",{"children":["chapter",{"children":[["chaptername","chapter2","d"],{"children":["__PAGE__?{\"chaptername\":\"chapter2\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["chapter",{"children":[["chaptername","chapter2","d"],{"children":["__PAGE__",{},[["$L1",["$","main",null,{"className":"chapter horisontal-center","children":[["$","div",null,{"className":"chapter-navigator","children":[["$","$L2",null,{"href":"chapter1","children":"Prev"}],["$","$L2",null,{"href":"/chapter/","children":"Home"}],["$","$L2",null,{"href":"chapter3","children":"Next"}]]}],["$","div",null,{"className":"textBody","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","div",null,{"className":"chapter-navigator","children":[["$","$L2",null,{"href":"chapter1","children":"Prev"}],["$","$L2",null,{"href":"/chapter/","children":"Home"}],["$","$L2",null,{"href":"chapter3","children":"Next"}]]}]]}]],null],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","chapter","children","$5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","chapter","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}],null]},[["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"color-scheme","content":"dark"}]}],["$","body",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}]}]]}],null],null],[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c197e74d6f118b7c.css","precedence":"next","crossOrigin":"$undefined"}]],"$L7"]]]]
+7:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"The New Fate of the Sorcerers"}],["$","meta","3",{"name":"description","content":"Generated by Next.js"}],["$","link","4",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+1:null
